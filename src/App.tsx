@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
 const App = () => {
+  
   return (
     <div className="h-[100vh] flex-col flex justify-center items-center">
       <h1 className="text-5xl ">Welcome To My Website</h1>
